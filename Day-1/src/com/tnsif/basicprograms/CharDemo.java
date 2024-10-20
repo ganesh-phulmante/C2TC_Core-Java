@@ -9,7 +9,7 @@ public class CharDemo {
 		int Number0 = 58;
 		
 		System.out.println(Number0);
-
+	
 	}
 
 }
